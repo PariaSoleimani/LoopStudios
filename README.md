@@ -1,11 +1,11 @@
 # Project Name
 
-LoopStudios Landing Page
+LoopStudios
 
 # Project Overview
 
-This project is a landing page for a recording studio. The main goal is on understanding the layout, structuring and styling techniques using Tailwind 5
-LoopStudios landing page from Frontend Mentor challenge
+This project is a landing page for a VR experience creation studio. It is built with Tailwind CSS, fully responsive for all devices.
+LoopStudios landing page is from Frontend Mentor challenge.
 (https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw)
 
 # Contact
